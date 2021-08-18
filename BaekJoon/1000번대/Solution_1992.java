@@ -8,7 +8,6 @@ import java.util.ArrayList;
 /**
  * BaekJoon 1992. 쿼드트리
  * Date: 2021. 8. 18.
- * Solution: 
  * @author MIRAE
  */
 
