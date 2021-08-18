@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * SWEA 5644. 무선 충전
+ * SWEA 5644. [모의 SW 역량테스트] 무선 충전
  * Date: 2021. 8. 18.
  * @author MIRAE
  */
@@ -117,14 +117,3 @@ public class Solution_5644 {
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
